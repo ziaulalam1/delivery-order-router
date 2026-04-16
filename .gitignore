@@ -5,3 +5,5 @@ __pycache__/
 *.pyo
 INTERVIEW.md
 .claude/
+CLAUDE.md
+INTERVIEW_CHEATSHEET.md
